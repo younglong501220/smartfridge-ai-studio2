@@ -1,0 +1,7 @@
+{
+  "name": "SmartFridge AI 智慧冰箱食譜",
+  "description": "智能冰箱食材辨識與零浪費 AI 靈感食譜規劃系統",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
